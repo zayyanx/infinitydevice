@@ -25,7 +25,7 @@ New Gods Timeline
 
 
 2013
-====
+----
 Individuals have already begun their transformations into 'corporations of one' as continued intense perceived competitive and economic pressure force individuals to differentiate and build new markets to survive.
 
 These corporations form networks, people exchanging time and resources freely to optimize resource consumption and generation.
