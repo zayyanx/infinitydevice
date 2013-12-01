@@ -1,7 +1,8 @@
 infinitydevice
 ==============
 
-A never ending science fiction story, with different paths and outcomes as time ebbs and flows
+A never ending science fiction story, with different paths and outcomes as time ebbs and flows. Twitter: [nfntydvc](http://twitter.com/nfntydvc "nfntydvc")
+
 
 
 Phase I
@@ -35,10 +36,10 @@ Scans for tweets with the (time)(day)(month)(year)(text)(#story) format, where a
 
 Serve up timelines based on criteria above and other operators that effectively group stories.
 
-Allow users to edit and save generated timelines, as well as including full stories in-line. 
+Allow users to edit and save generated timelines, as well as including full stories in-line.
 
 
-Phase Iv (future)
+Phase IV (future)
 ---------
 
 Songza-style generator. Serve up stories to the user from saved timelines with a few clicks of mood criteria, current events, and trending topics. 
