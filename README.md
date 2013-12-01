@@ -1,7 +1,9 @@
 infinitydevice
 ==============
 
-A never ending science fiction story, with different paths and outcomes as time ebbs and flows. Twitter: [nfntydvc](http://twitter.com/nfntydvc "nfntydvc")
+A never ending science fiction story, with different paths and outcomes as time ebbs and flows. 
+
+Twitter: [nfntydvc](http://twitter.com/nfntydvc "nfntydvc")
 
 
 Brief
